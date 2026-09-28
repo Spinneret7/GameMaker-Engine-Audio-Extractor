@@ -16,8 +16,8 @@ import (
 var version string = "1.2.0 ~ 09/28/2026"
 
 func main() {
-	fmt.Println("GameMaker Studio AudioGroup Extractor v" + version)
-	fmt.Println("Author: Jonathan Hecl ~ https://www.jonathanhecl.com")
+	fmt.Println("GameMaker Engine Audio Extractor v" + version)
+	fmt.Println("Author: Spinneret ~ With the Help of Jonathan Hecl")
 	fmt.Println("OGGRE-ready fork: auto-detects WAV/OGG and can encode Vorbis for OGGRE")
 	fmt.Println()
 
